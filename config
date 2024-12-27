@@ -1,0 +1,10 @@
+gtk-titlebar = false
+gtk-single-instance = true
+window-decoration = false
+
+font-family = "Fira Code SemiBold"
+font-family-bold = "Fira Code Bold"
+font-family-italic = "Fira Code Light"
+font-family-bold-italic = "Fira Code Bold"
+
+command = "tmux new -A -s personal"
