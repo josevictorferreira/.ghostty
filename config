@@ -9,4 +9,4 @@ font-family-bold-italic = "JetBrains Mono Bold Italic"
 
 theme = "tokyonight_night"
 
-command = "tmux new -A -s personal"
+command = "tmux new -A -s main"
